@@ -1,1 +1,2 @@
-print soy una prueba de texto
+print("soy una prueba de texto")
+#Bollua was here lol
